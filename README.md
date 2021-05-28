@@ -9,6 +9,10 @@
 
 ![img/Untitled.png](img/Untitled.png)
 
+
+[기능 확인하기](./option.md)
+
+
 # 사용한 라이브러리
 
 ```r
