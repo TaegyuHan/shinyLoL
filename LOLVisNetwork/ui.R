@@ -137,7 +137,7 @@ ui <- dashboardPage(
                                         sliderInput(inputId = "WinningPercentage",
                                                     label = h3("Percentage"),
                                                     width = "100%",
-                                                    min = 0, max = 100, value = c(25, 75))
+                                                    min = 1, max = 99, value = c(25, 75))
                                     )
                                 )
                             )
